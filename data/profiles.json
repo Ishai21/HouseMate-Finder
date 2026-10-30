@@ -1,0 +1,158 @@
+[
+  {
+    "id": "maya",
+    "name": "Maya",
+    "placed": false,
+    "lifestyle": { "smoking": "no", "pets": "none", "sleep": "late", "cleanliness": 4, "guests": "rarely", "noise": "quiet", "budget": 900 },
+    "favourites": {
+      "film": ["Blade Runner 2049", "Arrival"],
+      "music": ["Radiohead", "Brian Eno"],
+      "food": ["Nobu"],
+      "places": ["Reykjavik"]
+    }
+  },
+  {
+    "id": "theo",
+    "name": "Theo",
+    "placed": false,
+    "lifestyle": { "smoking": "no", "pets": "cat", "sleep": "late", "cleanliness": 4, "guests": "sometimes", "noise": "quiet", "budget": 950 },
+    "favourites": {
+      "film": ["Ex Machina", "Lost in Translation"],
+      "music": ["Sigur Rós", "Massive Attack"],
+      "food": ["Ippudo"],
+      "places": ["Kyoto"]
+    }
+  },
+  {
+    "id": "jordan",
+    "name": "Jordan",
+    "placed": false,
+    "lifestyle": { "smoking": "outside", "pets": "none", "sleep": "late", "cleanliness": 2, "guests": "often", "noise": "lively", "budget": 1000 },
+    "favourites": {
+      "film": ["Furious 7", "The Hangover"],
+      "music": ["Pitbull", "David Guetta"],
+      "food": ["Nando's"],
+      "places": ["Las Vegas"]
+    }
+  },
+  {
+    "id": "priya",
+    "name": "Priya",
+    "placed": false,
+    "lifestyle": { "smoking": "no", "pets": "dog", "sleep": "early", "cleanliness": 5, "guests": "sometimes", "noise": "quiet", "budget": 850 },
+    "favourites": {
+      "film": ["Paddington 2", "Amélie"],
+      "music": ["Norah Jones"],
+      "food": ["Dishoom", "Café de Flore"],
+      "places": ["Cotswolds"]
+    }
+  },
+  {
+    "id": "sam",
+    "name": "Sam",
+    "placed": false,
+    "lifestyle": { "smoking": "no", "pets": "cat", "sleep": "flexible", "cleanliness": 3, "guests": "sometimes", "noise": "moderate", "budget": 800 },
+    "favourites": {
+      "film": ["Spirited Away"],
+      "music": ["Joe Hisaishi", "Norah Jones"],
+      "food": ["Ottolenghi"],
+      "places": ["Lisbon"]
+    }
+  },
+  {
+    "id": "alex",
+    "name": "Alex",
+    "placed": false,
+    "lifestyle": { "smoking": "yes", "pets": "none", "sleep": "late", "cleanliness": 2, "guests": "often", "noise": "lively", "budget": 750 },
+    "favourites": {
+      "film": ["City of God", "Trainspotting"],
+      "music": ["The Clash", "Kendrick Lamar"],
+      "food": ["Tacos El Gordo"],
+      "places": ["Berlin"]
+    }
+  },
+  {
+    "id": "dev",
+    "name": "Dev",
+    "placed": true,
+    "lifestyle": { "smoking": "outside", "pets": "none", "sleep": "late", "cleanliness": 3, "guests": "often", "noise": "moderate", "budget": 800 },
+    "favourites": {
+      "film": ["Trainspotting"],
+      "music": ["Kendrick Lamar"],
+      "food": ["Joe's Pizza"],
+      "places": ["Berlin", "Tokyo"]
+    }
+  },
+  {
+    "id": "lena",
+    "name": "Lena",
+    "placed": false,
+    "lifestyle": { "smoking": "no", "pets": "dog", "sleep": "early", "cleanliness": 3, "guests": "sometimes", "noise": "moderate", "budget": 850 },
+    "favourites": {
+      "film": ["Into the Wild"],
+      "music": ["Fleet Foxes", "Bon Iver"],
+      "food": ["Sweetgreen"],
+      "places": ["Patagonia"]
+    }
+  },
+  {
+    "id": "kai",
+    "name": "Kai",
+    "placed": false,
+    "lifestyle": { "smoking": "no", "pets": "none", "sleep": "early", "cleanliness": 3, "guests": "often", "noise": "moderate", "budget": 900 },
+    "favourites": {
+      "film": ["The Secret Life of Walter Mitty"],
+      "music": ["Mumford & Sons"],
+      "food": ["Sweetgreen", "Five Guys"],
+      "places": ["Patagonia", "Cotswolds"]
+    }
+  },
+  {
+    "id": "noor",
+    "name": "Noor",
+    "placed": false,
+    "lifestyle": { "smoking": "no", "pets": "none", "sleep": "flexible", "cleanliness": 4, "guests": "rarely", "noise": "quiet", "budget": 1000 },
+    "favourites": {
+      "film": ["Her", "Spirited Away"],
+      "music": ["Bon Iver"],
+      "food": ["Café de Flore"],
+      "places": ["Lisbon"]
+    }
+  },
+  {
+    "id": "rio",
+    "name": "Rio",
+    "placed": false,
+    "lifestyle": { "smoking": "no", "pets": "dog", "sleep": "late", "cleanliness": 2, "guests": "often", "noise": "lively", "budget": 950 },
+    "favourites": {
+      "film": ["Mad Max: Fury Road"],
+      "music": ["Imagine Dragons", "David Guetta"],
+      "food": ["Five Guys"],
+      "places": ["Ibiza"]
+    }
+  },
+  {
+    "id": "ella",
+    "name": "Ella",
+    "placed": true,
+    "lifestyle": { "smoking": "no", "pets": "none", "sleep": "late", "cleanliness": 4, "guests": "rarely", "noise": "quiet", "budget": 900 },
+    "favourites": {
+      "film": ["Interstellar", "Her"],
+      "music": ["Radiohead"],
+      "food": ["Ippudo"],
+      "places": ["Tokyo"]
+    }
+  },
+  {
+    "id": "omar",
+    "name": "Omar",
+    "placed": false,
+    "lifestyle": { "smoking": "no", "pets": "none", "sleep": "early", "cleanliness": 5, "guests": "rarely", "noise": "quiet", "budget": 1100 },
+    "favourites": {
+      "film": ["Interstellar"],
+      "music": [],
+      "food": [],
+      "places": []
+    }
+  }
+]
